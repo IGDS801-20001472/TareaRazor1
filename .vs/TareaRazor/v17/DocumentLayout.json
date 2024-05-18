@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Desarrollos de .ASP\\TareaRazor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B20CF355-25A9-4114-96F0-1304E951CF44}|TareaRazor\\TareaRazor.csproj|c:\\desarrollos de .asp\\tarearazor\\tarearazor\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B20CF355-25A9-4114-96F0-1304E951CF44}|TareaRazor\\TareaRazor.csproj|solutionrelative:tarearazor\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20CF355-25A9-4114-96F0-1304E951CF44}|TareaRazor\\TareaRazor.csproj|c:\\desarrollos de .asp\\tarearazor\\tarearazor\\pages\\formuoli.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B20CF355-25A9-4114-96F0-1304E951CF44}|TareaRazor\\TareaRazor.csproj|solutionrelative:tarearazor\\pages\\formuoli.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20CF355-25A9-4114-96F0-1304E951CF44}|TareaRazor\\TareaRazor.csproj|c:\\desarrollos de .asp\\tarearazor\\tarearazor\\pages\\formuoli.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B20CF355-25A9-4114-96F0-1304E951CF44}|TareaRazor\\TareaRazor.csproj|solutionrelative:tarearazor\\pages\\formuoli.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Desarrollos de .ASP\\TareaRazor\\TareaRazor\\Pages\\Estadistica.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TareaRazor\\Pages\\Estadistica.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20CF355-25A9-4114-96F0-1304E951CF44}|TareaRazor\\TareaRazor.csproj|c:\\desarrollos de .asp\\tarearazor\\tarearazor\\pages\\imc.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B20CF355-25A9-4114-96F0-1304E951CF44}|TareaRazor\\TareaRazor.csproj|solutionrelative:tarearazor\\pages\\imc.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20CF355-25A9-4114-96F0-1304E951CF44}|TareaRazor\\TareaRazor.csproj|c:\\desarrollos de .asp\\tarearazor\\tarearazor\\pages\\imc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B20CF355-25A9-4114-96F0-1304E951CF44}|TareaRazor\\TareaRazor.csproj|solutionrelative:tarearazor\\pages\\imc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Desarrollos de .ASP\\TareaRazor\\TareaRazor\\Pages\\Encriptacion.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TareaRazor\\Pages\\Encriptacion.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Desarrollos de .ASP\\TareaRazor\\TareaRazor\\Pages\\Encriptacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TareaRazor\\Pages\\Encriptacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Formuoli.cshtml.cs",
+              "DocumentMoniker": "C:\\Desarrollos de .ASP\\TareaRazor\\TareaRazor\\Pages\\Formuoli.cshtml.cs",
+              "RelativeDocumentMoniker": "TareaRazor\\Pages\\Formuoli.cshtml.cs",
+              "ToolTip": "C:\\Desarrollos de .ASP\\TareaRazor\\TareaRazor\\Pages\\Formuoli.cshtml.cs",
+              "RelativeToolTip": "TareaRazor\\Pages\\Formuoli.cshtml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T04:42:48.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Formuoli.cshtml",
+              "DocumentMoniker": "C:\\Desarrollos de .ASP\\TareaRazor\\TareaRazor\\Pages\\Formuoli.cshtml",
+              "RelativeDocumentMoniker": "TareaRazor\\Pages\\Formuoli.cshtml",
+              "ToolTip": "C:\\Desarrollos de .ASP\\TareaRazor\\TareaRazor\\Pages\\Formuoli.cshtml",
+              "RelativeToolTip": "TareaRazor\\Pages\\Formuoli.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T04:36:48.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Estadistica.cshtml",
+              "DocumentMoniker": "C:\\Desarrollos de .ASP\\TareaRazor\\TareaRazor\\Pages\\Estadistica.cshtml",
+              "RelativeDocumentMoniker": "TareaRazor\\Pages\\Estadistica.cshtml",
+              "ToolTip": "C:\\Desarrollos de .ASP\\TareaRazor\\TareaRazor\\Pages\\Estadistica.cshtml",
+              "RelativeToolTip": "TareaRazor\\Pages\\Estadistica.cshtml",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAwEYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T23:19:31.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Encriptacion.cshtml",
+              "DocumentMoniker": "C:\\Desarrollos de .ASP\\TareaRazor\\TareaRazor\\Pages\\Encriptacion.cshtml",
+              "RelativeDocumentMoniker": "TareaRazor\\Pages\\Encriptacion.cshtml",
+              "ToolTip": "C:\\Desarrollos de .ASP\\TareaRazor\\TareaRazor\\Pages\\Encriptacion.cshtml",
+              "RelativeToolTip": "TareaRazor\\Pages\\Encriptacion.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T17:09:54.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Desarrollos de .ASP\\TareaRazor\\TareaRazor\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TareaRazor\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Desarrollos de .ASP\\TareaRazor\\TareaRazor\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TareaRazor\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB8AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T03:16:36.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Encriptacion.cshtml.cs",
+              "DocumentMoniker": "C:\\Desarrollos de .ASP\\TareaRazor\\TareaRazor\\Pages\\Encriptacion.cshtml.cs",
+              "RelativeDocumentMoniker": "TareaRazor\\Pages\\Encriptacion.cshtml.cs",
+              "ToolTip": "C:\\Desarrollos de .ASP\\TareaRazor\\TareaRazor\\Pages\\Encriptacion.cshtml.cs",
+              "RelativeToolTip": "TareaRazor\\Pages\\Encriptacion.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T17:10:12.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMC.cshtml.cs",
+              "DocumentMoniker": "C:\\Desarrollos de .ASP\\TareaRazor\\TareaRazor\\Pages\\IMC.cshtml.cs",
+              "RelativeDocumentMoniker": "TareaRazor\\Pages\\IMC.cshtml.cs",
+              "ToolTip": "C:\\Desarrollos de .ASP\\TareaRazor\\TareaRazor\\Pages\\IMC.cshtml.cs",
+              "RelativeToolTip": "TareaRazor\\Pages\\IMC.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T03:12:30.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMC.cshtml",
+              "DocumentMoniker": "C:\\Desarrollos de .ASP\\TareaRazor\\TareaRazor\\Pages\\IMC.cshtml",
+              "RelativeDocumentMoniker": "TareaRazor\\Pages\\IMC.cshtml",
+              "ToolTip": "C:\\Desarrollos de .ASP\\TareaRazor\\TareaRazor\\Pages\\IMC.cshtml",
+              "RelativeToolTip": "TareaRazor\\Pages\\IMC.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T03:09:35.013Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

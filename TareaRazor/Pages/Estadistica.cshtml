@@ -1,0 +1,84 @@
+﻿@page
+@model TareaRazor.Pages.EstadisticaModel
+@{
+}
+
+@{
+
+    Random random = new Random();
+    int[] numeros = new int[20];
+    for (int i = 0; i < numeros.Length; i++)
+    {
+        numeros[i] = random.Next(0, 101); 
+    }
+
+}
+
+
+<table style="border-collapse: collapse;">
+    <tr>
+        @foreach(int num in numeros)
+        {
+
+            <td style="width: 30px; height: 30px; border: 1px solid black;"> <center> @num </center></td>
+
+        }
+    </tr>
+</table>
+
+<br />
+
+<h2>Suma de todos los numeros del arreglo</h2>
+
+@{
+    int suma = 0;
+    foreach (int s in numeros)
+    {
+        suma = suma + s;
+    }
+}
+
+<p>Sumatoria: @suma</p>
+
+@{
+
+    int promedio = 0;
+    promedio = suma / numeros.Length;
+
+}
+<p>Promedio: @promedio</p>
+
+
+@{
+    int[] numerosOrdenados = (int[])numeros.Clone();
+    Array.Sort(numerosOrdenados);
+}
+
+<table style="border-collapse: collapse;">
+    <tr>
+        @foreach (int numord in numerosOrdenados)
+        {
+
+            <td style="width: 30px; height: 30px; border: 1px solid black;"> <center> @numord </center></td>
+
+        }
+    </tr>
+</table>
+
+<br />
+
+@{
+    var frecuencia = numeros.GroupBy(x => x)
+                           .OrderByDescending(g => g.Count())
+                           .First();
+    int moda = frecuencia.Key;
+    int maxFrecuencia = frecuencia.Count();
+}
+
+<p>La moda es: @moda</p>
+
+@{
+    double mediana = (numerosOrdenados[9] + numerosOrdenados[10])/2;
+}
+
+<p>La mediana es: @mediana</p>

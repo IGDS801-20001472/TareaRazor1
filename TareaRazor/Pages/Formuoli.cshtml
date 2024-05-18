@@ -1,0 +1,43 @@
+﻿@page
+@model TareaRazor.Pages.FormuoliModel
+@{
+}
+
+
+<h2>Binomial Calculator</h2>
+
+<form method="post">
+    <div>
+        <label>A:</label>
+        <input asp-for="A" />
+        <span asp-validation-for="A" style="color:red"></span>
+    </div>
+    <div>
+        <label>B:</label>
+        <input asp-for="B" />
+        <span asp-validation-for="B" style="color:red"></span>
+    </div>
+    <div>
+        <label>X:</label>
+        <input asp-for="X" />
+        <span asp-validation-for="X" style="color:red"></span>
+    </div>
+    <div>
+        <label>Y:</label>
+        <input asp-for="Y" />
+        <span asp-validation-for="Y" style="color:red"></span>
+    </div>
+    <div>
+        <label>N:</label>
+        <input asp-for="N" />
+        <span asp-validation-for="N" style="color:red"></span>
+    </div>
+    <div>
+        <button type="submit">Calcular</button>
+    </div>
+</form>
+
+@if (Model != null && Model.Result != 0)
+{
+    <h3>Result: @Model.Result</h3>
+}

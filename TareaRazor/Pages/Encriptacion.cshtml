@@ -1,0 +1,34 @@
+﻿@page
+@model TareaRazor.Pages.EncriptacionModel
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Encriptación</title>
+</head>
+<body>
+    <h3>Cifrado de Julio César</h3>
+
+    <form method="post">
+        <p>Mensaje Original: <input type="text" asp-for="MensajeOriginal" /></p>
+
+        <p>Clave: <input type="number" asp-for="Clave" /></p>
+
+        <p><input type="submit" value="Codificar" asp-page-handler="Codificar" /></p>
+        <p><input type="submit" value="Decodificar" asp-page-handler="Decodificar" /></p>
+    </form>
+
+    @if (!string.IsNullOrEmpty(Model.MensajeCifrado))
+    {
+        <div>
+            <p>Mensaje Cifrado: @Model.MensajeCifrado</p>
+        </div>
+    }
+
+    @if (!string.IsNullOrEmpty(Model.MensajeOriginal))
+    {
+        <div>
+            <p>Mensaje Original: @Model.MensajeOriginal</p>
+        </div>
+    }
+</body>
+</html>
